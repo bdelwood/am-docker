@@ -1,9 +1,9 @@
 # am-docker
-A Dockerized version of [am](https://lweb.cfa.harvard.edu/~spaine/am/download/src/) 
+A Dockerized version of [am](https://lweb.cfa.harvard.edu/~spaine/am/download/src/).
 
 You can run it with 
 ```
-docker run -it --rm bdelwood/am
+docker run -it --rm ghcr.io/bdelwood/am
 ```
 Or with singularity
 ```
@@ -19,6 +19,6 @@ docker build -t local/am .
 
 
 # License
-`am`'s license is [here](https://lweb.cfa.harvard.edu/~spaine/am/download/src/LICENSE)
+`am`'s license is [here](https://lweb.cfa.harvard.edu/~spaine/am/download/src/LICENSE).
 
 Everything else in this repo is under the MIT license. 
